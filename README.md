@@ -1,3 +1,3 @@
 hello-world
 ===========
-lorem ipsum
+This is just my test repo.
